@@ -1,4 +1,4 @@
-### 👋 Hi there, my name is Ivan Hrytsenko, i am 20 y.o _Front-end Developer_ from Ukraine.
+### 👋 Hi there, my name is Ivan Hrytsenko, i am _Front-end Developer_ from Ukraine.
 
 ### Languages and Technologies:
 
@@ -11,9 +11,6 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 <br/>
-### ✉️ My email: ivanhrytsenko23143@gmail.com
-
-### ✉️ My telegram: @ggrits
 
 ### ✨ Have a nice day! ✨
 
